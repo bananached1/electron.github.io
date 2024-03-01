@@ -1,0 +1,133 @@
+aside {
+  width: 50%;
+  float: left;
+}
+article {
+  width: 50%;
+  float: left;
+}
+.fa-solid.fa-bars.fa-2xl {
+  padding: 5px;
+  margin: 5px;
+  position: fixed;
+}
+.fuckoff {
+  padding: 10px;
+}
+body {
+  background-color: #fdfffa;
+}
+.imagesyoudickhead {
+  max-width: 50px;
+  float: right;
+}
+/* Style for the side navigation bar */
+nav {
+  width: 0;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #253800;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 5px;
+}
+
+nav a {
+  padding: 10px 15px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #f9fff1;
+  display: block;
+  transition: 0.5s;
+  text-align: left;
+  
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a:hover {
+  color: #a4ff05;
+}
+
+nav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+h1{
+  text-align: center;
+  font-size: 50px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+header{
+  display: flex;
+  justify-content: space-between;
+}
+h1{
+  margin: 0;
+  color: #253800;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+hr{
+  margin-right: 50px;
+  margin-left: 50px;
+  border-color: #253800;
+}
+h3{
+  margin: 0;
+  color: #253800;
+  padding: 0px;
+  text-align: center;
+  font-size: 25px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h2{
+  margin: 0;
+  color: #253800;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+p{
+  margin: 0;
+  color: #253800;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.s1{
+  width: 19%;
+  float: left;
+  text-align: center;
+  padding: 3px;
+
+}
+.s2{
+  width: 19%;
+  float: left;
+  text-align: center;
+  padding: 3px;
+
+}
+.s3{
+  width: 19%;
+  float: left;
+  text-align: center;
+  padding: 3px;
+
+}
+.s4{
+  width: 19%;
+  float: left;
+  text-align: center;
+  padding: 3px;
+
+}
+.s5{
+  width: 19%;
+  float: left;
+  text-align: center;
+  padding: 3px;
+}
+.hi1{
+  padding: 5px;
+}
